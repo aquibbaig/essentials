@@ -1,2 +1,2 @@
 # essentials
-Essential frameworks during Hackathons
+Essential boilerplates and frameworks during Hackathons
